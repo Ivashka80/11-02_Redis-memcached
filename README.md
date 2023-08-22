@@ -53,6 +53,9 @@
 ### *Ответ* 
 
 <details>
+
+![image](https://github.com/Ivashka80/11-02_Redis-memcached/assets/121082757/37683464-ae1e-4509-8a2a-a9fe32defcfd)
+
 </details>
 
 ---
