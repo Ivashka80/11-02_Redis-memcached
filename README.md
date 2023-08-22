@@ -85,6 +85,9 @@
 ### *Ответ* 
 
 <details>
+
+![image](https://github.com/Ivashka80/11-02_Redis-memcached/assets/121082757/aedb0273-9889-463f-846e-e06e60395089)
+
 </details>
 
 <details>
